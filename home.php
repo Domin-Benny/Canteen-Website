@@ -12,24 +12,8 @@
   <!-- Favicons -->
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
   <link rel="stylesheet" href="assets/css/font-awesome.css">
-
-<<<<<<< HEAD
-<<<<<<< HEAD
   <link rel="icon" type="image/x-icon" href="assets/img/Mimizz Favicon.png">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-=======
-=======
->>>>>>> origin/master
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <link rel="icon" type="image/x-icon" href="https://www.canva.com/design/DAGHUqPfHws/SWYesUMyLvTGUXKuCxPFJw/view?utm_content=DAGHUqPfHws&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
