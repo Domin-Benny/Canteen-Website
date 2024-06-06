@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> origin/master
 const signUpButton=document.getElementById('signUpButton');
 const signInButton=document.getElementById('signInButton');
 const signInForm=document.getElementById('signIn');
@@ -14,6 +17,9 @@ signInButton.addEventListener('click', function(){
     signInForm.style.display="block";
     signUpForm.style.display="none";
 })
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
@@ -305,6 +311,7 @@ interact('.add-to-cart')
   });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   const signUpButton=document.getElementById('signUpButton');
   const signInButton=document.getElementById('signInButton');
   const signInForm=document.getElementById('signIn');
@@ -318,6 +325,9 @@ interact('.add-to-cart')
       signInForm.style.display="block";
       signUpForm.style.display="none";
   })
+=======
+ 
+>>>>>>> origin/master
 =======
  
 >>>>>>> origin/master

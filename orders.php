@@ -33,7 +33,11 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <link rel="icon" type="image/x-icon" href="assets/img/Mimizz Favicon.png">
+=======
+  <link rel="icon" type="image/x-icon" href="https://www.canva.com/design/DAGHUqPfHws/SWYesUMyLvTGUXKuCxPFJw/view?utm_content=DAGHUqPfHws&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+>>>>>>> origin/master
 =======
   <link rel="icon" type="image/x-icon" href="https://www.canva.com/design/DAGHUqPfHws/SWYesUMyLvTGUXKuCxPFJw/view?utm_content=DAGHUqPfHws&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 >>>>>>> origin/master

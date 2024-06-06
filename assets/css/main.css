@@ -53,8 +53,11 @@ i {
 
 /*Index*/
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> origin/master
 .container{
   background:#fbf852;
   width:450px;
@@ -182,6 +185,9 @@ button:hover{
   text-decoration:underline;
   color:blue;
 }
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 
 /*--------------------------------------------------------------
@@ -1666,6 +1672,11 @@ Orders
   }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  .order-item {
+  }
+>>>>>>> origin/master
 =======
   .order-item {
   }
