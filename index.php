@@ -18,8 +18,7 @@
 body{
     background-color:  #ffffff;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .container{
   background:#fbf852;
   width:450px;
@@ -147,10 +146,7 @@ button:hover{
   text-decoration:underline;
   color:blue;
 }
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
+
     </style>
 </head>
 <body>

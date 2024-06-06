@@ -52,12 +52,6 @@ i {
 }
 
 /*Index*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-=======
->>>>>>> origin/master
 .container{
   background:#fbf852;
   width:450px;
@@ -185,11 +179,6 @@ button:hover{
   text-decoration:underline;
   color:blue;
 }
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
-
 /*--------------------------------------------------------------
 # Sections & Section Header
 --------------------------------------------------------------*/
@@ -1670,19 +1659,7 @@ Orders
   .user-orders h2 {
     font-size: 24px;
   }
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  .order-item {
-  }
->>>>>>> origin/master
-=======
-  .order-item {
-  }
->>>>>>> origin/master
 }
-
 .order-details-container {
   display: none; 
   position: fixed;
